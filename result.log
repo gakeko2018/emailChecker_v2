@@ -3,7 +3,7 @@
   addr: 'sahin8305@gmail.com',
   code: 1,
   tryagain: false,
-  banner: '220 mx.google.com ESMTP i12si2890783wro.16 - gsmtp\r\n' }
+  banner: '220 mx.google.com ESMTP f2si4070867wrg.180 - gsmtp\r\n' }
 { success: false,
   info: 'Invalid Email Structure',
   addr:
@@ -34,4 +34,4 @@
   code: 1,
   tryagain: false,
   banner:
-   '220 DM3NAM05FT023.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Sat, 23 Feb 2019 12:09:09 +0000\r\n' }
+   '220 DM3NAM05FT064.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Sat, 23 Feb 2019 12:12:43 +0000\r\n' }
