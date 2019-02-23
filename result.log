@@ -1,0 +1,37 @@
+{ success: true,
+  info: 'sahin8305@gmail.com is a valid address',
+  addr: 'sahin8305@gmail.com',
+  code: 1,
+  tryagain: false,
+  banner: '220 mx.google.com ESMTP t10si2005101wmh.83 - gsmtp\r\n' }
+{ success: false,
+  info: 'Invalid Email Structure',
+  addr:
+   { email: 'aaaaa.com',
+     port: 25,
+     sender: 'name@example.org',
+     fqdn: 'mail.example.org',
+     concurrency: 1,
+     debug: false,
+     timeout: 0,
+     ignore: false },
+  params:
+   { options:
+      { email: 'aaaaa.com',
+        port: 25,
+        sender: 'name@example.org',
+        fqdn: 'mail.example.org',
+        concurrency: 1,
+        debug: false,
+        timeout: 0,
+        ignore: false },
+     callback: [Function],
+     email: 'aaaaa.com' },
+  code: 2 }
+{ success: false,
+  info: 'aa@aa.com is an invalid address',
+  addr: 'aa@aa.com',
+  code: 1,
+  tryagain: false,
+  banner:
+   '220 DM3NAM05FT024.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Sat, 23 Feb 2019 07:18:54 +0000\r\n' }

@@ -1,0 +1,19 @@
+{
+  "name": "email-verifier",
+  "version": "1.0.0",
+  "description": "### Install",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "dns": "^0.2.2",
+    "fs": "0.0.1-security",
+    "net": "^1.0.2",
+    "util": "^0.11.1",
+    "validator": "^10.11.0"
+  }
+}
